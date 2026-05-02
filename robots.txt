@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mithunparab.github.io/sitemap.xml
